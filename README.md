@@ -1,4 +1,7 @@
 Hello #CODSOFT
-This is rahul here,1
-I completed the task of level 1.
+This is rahul here,
+#task 1 completed
+-- Potfolio.
 
+## task 2 completed
+-- Calculator.
